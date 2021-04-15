@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mastera21
 - 👀 I’m interested in Game Development and Gameplay Engineer
-- 🌱 I’m currently learning c++ and i have experience with java
+- 🌱 I’m currently learning C++ and i have experience with Java
 <!--- 
 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
